@@ -1,0 +1,22 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+.chan{
+    width: 410px;
+    height: 350px;
+    background-color: #f2f2f2;
+    position: relative;
+    top: 50px;
+    left: 483px;
+    border-radius: 5%;
+}
+
+.odometer{
+    font-size: 100px;
+}
+
+.chan-name{
+    font-size: 35px;
+}
